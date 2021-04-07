@@ -1,4 +1,2 @@
 matplotlib
-scipy
-pandas
 folium
