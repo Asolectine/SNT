@@ -1,2 +1,3 @@
 # SNT
-Programmes Pythons à compléter relatifs à l'enseignement de la SNT en seconde
+TP de SNT
+Accessibles depuis Binder, Les bibliothèques nécessaires sont incluses dans le fichier requirements.txt
